@@ -1,6 +1,6 @@
 package cleanHello;
 
-public class cleanHello {
+public class CleanHello {
 
   public static void main(String[] args) {
     sayHelloTo("world");
