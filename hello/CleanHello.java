@@ -1,4 +1,4 @@
-package cleanHello;
+package cleanhello;
 
 public class CleanHello {
 
