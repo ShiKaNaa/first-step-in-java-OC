@@ -12,7 +12,7 @@
 
 // }
 
-package CleanWorld;
+package hello;
 
 /** Ceci est une implémentation du message traditionnel "Hello world!"
 * @author L'équipe Education d'OpenClassrooms
@@ -26,7 +26,7 @@ public class CleanWorld {
 
    /** affiche le message "hello" au destinataire fourni
    *
-   * @param recipient
+   *
    */
    private static void sayHelloTo(String recipient) {
       System.out.println("Hello " + recipient);
