@@ -12,7 +12,7 @@
 
 // }
 
-package cleanHello;
+package CleanWorld;
 
 /** Ceci est une implémentation du message traditionnel "Hello world!"
 * @author L'équipe Education d'OpenClassrooms
