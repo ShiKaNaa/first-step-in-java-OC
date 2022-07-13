@@ -6,4 +6,8 @@ public class Scope {
     fonctionScope();
   }
 
+  public static void fonctionScope {
+    String scopTesting = "Learning scope of var";
+    System.out.println(scopTesting);
+  }
 }
