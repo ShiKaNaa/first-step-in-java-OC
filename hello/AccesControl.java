@@ -8,7 +8,7 @@ public class AccesControl {
 
 }
 
-Class Exo {
+class Exo {
 
   static String text = "accessing from another class";
 
