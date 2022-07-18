@@ -8,7 +8,12 @@ public class Looping {
       bonjour(Integer.toString(i));
     }
 
+    int i = 0;
 
+    while(i < 90) {
+      i = randomNumber();
+      System.out.println(Integer.toString(i));
+    }
 
   }
 
