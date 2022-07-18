@@ -8,10 +8,16 @@ public class Looping {
       bonjour(Integer.toString(i));
     }
 
+
+
   }
 
   static void bonjour(String nom) {
     System.out.println("Bonjour " + nom + " !");
+  }
+
+  static int randomNumber() {
+    return (int) ((Math.random() * ((100 - 1) + 1 )) + 1);
   }
 
 }
